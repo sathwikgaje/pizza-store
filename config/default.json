@@ -1,0 +1,10 @@
+{
+    "PORT":"",
+    "jwtPrivateKey":"",
+    "adminName":"",
+    "adminEmail": "",
+    "adminPhone":"",
+    "adminPassword":"",
+    "admin":"true",
+    "db":""
+}
